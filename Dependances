@@ -1,0 +1,7 @@
+#!pip uninstall dlib face_recognition
+!pip install cmake
+!pip install dlib --no-binary dlib
+!pip install face_recognition
+!pip install gradio matplotlib pandas
+!pip install opencv-python
+!pip install  face-recognition opencv-python-headless
