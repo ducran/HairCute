@@ -5,3 +5,4 @@
 !pip install gradio matplotlib pandas
 !pip install opencv-python
 !pip install  face-recognition opencv-python-headless
+!pip install mediapipe opencv-python
